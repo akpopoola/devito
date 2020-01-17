@@ -68,4 +68,3 @@ def test_bench(mode, problem):
 
     assert path.isfile(bench_file)
     assert path.isfile(plot_file)
-
